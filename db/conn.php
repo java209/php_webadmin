@@ -1,9 +1,15 @@
 <?php
 
-    $host = '127.0.0.1'; 
-    $db = 'webadmin_db';
-    $user = 'root';
-    $pass = '';
+    //$host = '127.0.0.1'; 
+    //$db = 'webadmin_db';
+    //$user = 'root';
+    //$pass = '';
+    //$charset = 'utf8mb4';
+
+    $host = 'sql5.freesqldatabase.com'; 
+    $db = 'sql5484242';
+    $user = 'sql5484242';
+    $pass = 'wwLS35FiAe';
     $charset = 'utf8mb4';
 
     $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
