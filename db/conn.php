@@ -6,10 +6,16 @@
     //$pass = '';
     //$charset = 'utf8mb4';
 
-    $host = 'sql5.freesqldatabase.com'; 
-    $db = 'sql5484242';
-    $user = 'sql5484242';
-    $pass = 'wwLS35FiAe';
+    //$host = 'sql5.freesqldatabase.com'; 
+    //$db = 'sql5484242';
+    //$user = 'sql5484242';
+    //$pass = 'wwLS35FiAe';
+    //$charset = 'utf8mb4';
+
+    $host = 'remotemysql.com'; 
+    $db = 'rnqYOBtBAs';
+    $user = 'rnqYOBtBAs';
+    $pass = 'GDyTz80MLq';
     $charset = 'utf8mb4';
 
     $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
